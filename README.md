@@ -1,2 +1,2 @@
 # RecognizingHouseNumbers
-This algorithm uses deep neural network for Recognizing 32 X 32 images 
+This algorithm uses a deep convolutional neural network to classify 32 X 32 images of house numbers. 
